@@ -1,0 +1,12 @@
+longitud de trayectoria interna media: NaN
+altura del arbol: 12
+logitud interna: 625
+longitud de trayectoria interna media: 0.1568
+altura del arbol: 12
+logitud interna: 625
+longitud de trayectoria interna media: 6.377551020408164
+altura del arbol: 12
+logitud interna: 625
+longitud de trayectoria interna media: 6.377551020408164
+altura del arbol: 12
+logitud interna: 625
